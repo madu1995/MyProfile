@@ -1,9 +1,9 @@
 # MY PROFILE
-## This is my profile
-###### One of testing README File
+## Thilina Roshan Madushanka
+######GDSE 58
 
-    Hello There,I am so happy with coding...
+    Hello..
     
-![This is Image](assets/images/IMG-20211106-WA0023.jpg)
+![This is Image](assets/images/1636346882648.jpg)
     
-I Hope to Do **BOLD** and *ITALIC*
+We Can **BOLD** and *ITALIC*. 
